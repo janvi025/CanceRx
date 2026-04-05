@@ -1,6 +1,6 @@
 # CancerX – Breast Cancer Prediction Web App
 
-**CancerX** is a modern web application that predicts whether a breast tumor is **malignant (cancerous)** or **benign (non-cancerous)** based on 31 numerical features. It leverages **Python, Flask, and HTML** to provide a simple, responsive interface for users.
+**CancerX** is a Machine learning and web application that predicts whether a breast tumor is **malignant (cancerous)** or **benign (non-cancerous)** based on 31 numerical features. It leverages **Python, Flask, and HTML** to provide a simple, responsive interface for users.
 
 ---
 
